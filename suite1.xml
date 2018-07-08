@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="TestSuite">
+    <test name="FullTest" >
+        <classes>
+            <class name="triangle.CheckTriangleTest" />
+            <class name="triangle.GetMessageTest" />
+            <class name="triangle.DetectTriangleTest" />
+            <class name="triangle.GetSquareTest" />
+        </classes>
+    </test>
+</suite>
